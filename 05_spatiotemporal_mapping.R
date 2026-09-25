@@ -21,7 +21,7 @@
 ################################################################################
 
 # ------------------------------------------------------------
-# 0. SETUP — load spatial objects and spatio-temporal matrix
+# SETUP — load spatial objects and spatio-temporal matrix
 # ------------------------------------------------------------
 setwd("C:/Users/giada/OneDrive/Documenti/Desktop/RCODES THESIS")
 load("spatial_matrices.RData")          # loads s, pts_inside, sp
